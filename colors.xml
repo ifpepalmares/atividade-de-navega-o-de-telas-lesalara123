@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFFFC1E3</color> <!-- rosa claro -->
+    <color name="purple_500">#FFC8A2FF</color> <!-- lilás -->
+    <color name="purple_700">#FFB388EB</color> <!-- lilás mais escuro -->
+
+    <color name="teal_200">#FFFFC1E3</color>
+    <color name="teal_700">#FFC8A2FF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
